@@ -27,9 +27,14 @@
 
 Like all nerds, the people at SNOWCAVE love games, and for that reason, we decided that our React challenge was going to be based on that theme. Using the Rawg API (link below) and taking our design as a reference (it is not mandatory to follow it) we hope that a web platform will be created that must meet some mandatory requirements:  
 
+
 <br/>  
 
+Design reference: {link here}
 
+<br/>  
+
+## Requirements
 
 - Use API Gamer: https://rawg.io/apidocs  
   
@@ -69,7 +74,8 @@ Like all nerds, the people at SNOWCAVE love games, and for that reason, we decid
      - (nice to have) use redux to persist this list   
   
 
-More nices to have:  
+
+## Nice to have 
   
 
 - use typescript
