@@ -6,7 +6,7 @@
 # **<div align="center">REACT CHALLENGE</div>**  
   
 
-### <div align="center">Hey Caver, to show us your front end web skills we have prepared this challenge - build a web page for buying games 👨‍💻 🚀
+### <div align="center">Hey Caver, to show us your front end web skills we have prepared this challenge - build a web application for a gaming catalog 👨‍💻 🚀
 
 
 </div>  
