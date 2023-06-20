@@ -16,8 +16,8 @@
 
   
 <div>
-<img src="https://firebasestorage.googleapis.com/v0/b/snowcave-website.appspot.com/o/challenges%2Freact-challenge.png?alt=media&token=e5c1aea8-e5b3-4150-941f-4b8145e7530a" align="top" height="" width="500" />
-<img src="https://firebasestorage.googleapis.com/v0/b/snowcave-website.appspot.com/o/challenges%2Freact-challenge-2.png?alt=media&token=1c581df1-2630-42e9-95b9-15ff3ea4686f" align="top" height="" width="500" />
+<img src="https://firebasestorage.googleapis.com/v0/b/snowcave-website.appspot.com/o/challenges%2Freact-challenge.png?alt=media&token=e5c1aea8-e5b3-4150-941f-4b8145e7530a" align="top" height="" width="49%" />
+<img src="https://firebasestorage.googleapis.com/v0/b/snowcave-website.appspot.com/o/challenges%2Freact-challenge-2.png?alt=media&token=1c581df1-2630-42e9-95b9-15ff3ea4686f" align="top" height="" width="49%" />
 </div>  
   
   
