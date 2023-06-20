@@ -6,10 +6,7 @@
 # **<div align="center">REACT CHALLENGE</div>**  
   
 
-### <div align="center">Hey Caver, to show us your front end web skills we have prepared this challenge - build a web application for a gaming catalog 👨‍💻 🚀
-
-
-</div>  
+### <div align="center">Hey there, Caver! To demonstrate your front-end web skills, we have an exciting challenge for you. Your task is to build a web application for a gaming catalog. 👨‍💻 🚀 </div>  
 
 <br/>  
 <br/>  
@@ -26,12 +23,11 @@
 
 
 
-Like all nerds, the people at SNOWCAVE love games, and for that reason, we decided that our React challenge was going to be based on that theme. Using the Rawg API (link below) and taking our design as a reference (it is not mandatory to follow it) we hope that a web platform will be created that must meet some mandatory requirements:  
-
+Just like all nerds, the team at SNOWCAVE shares a deep love for games. That's why we have decided to base our React challenge on this theme. You'll be utilizing the Rawg API (link provided below) and can refer to our design as a reference (although it's not mandatory to follow it). Your goal is to create a web platform that meets certain mandatory requirements.
 
 <br/>  
 
-Design reference: {link here}
+Design reference: [Figma design](https://www.figma.com/file/9BoGp5wNCdndFD7DkCQp8l/React-Challenge?type=design&node-id=0%3A1&t=v1n1LjqFKoufD1hl-1)
 
 <br/>  
 
@@ -39,18 +35,6 @@ Design reference: {link here}
 
 - Use API Gamer: https://rawg.io/apidocs  
   
-
-- Login 
-  - can be with firebase or similar  
-  
-
-- Sign in
-   - can be with firebase or similar
-   - name
-   - email
-   - password   
-  
-
 - Home
   - List of games 
      - for which item do we need to have:
@@ -76,14 +60,24 @@ Design reference: {link here}
   
 
 
-## Nice to have 
-  
+## Code requirement
 
 - use typescript
-- use styled component
-- deploy application with Firebase, Git, Versel (incase you decide to do in NextJS)
-  
-  
+- use some framework as Next, Gastby (optional)
+- use styled component or tailwind (optional)
+- deploy application with Firebase, Git, Versel (optional)
+
+<br/>  
+
+## How to delivery the challenge
+Before starting coding, fork or clone the repository because in the end, you will need to open a pull request to submit your challenge.
+
+<a>[How fork and make a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)</p>
+
+<a>[How clone and make a PR](https://medium.com/learnfactory-nigeria/cloning-branching-and-creating-pull-requests-using-github-4105a55bf0fe)</a>
+
+After opening the pull request, the SNOWCAVE team will conduct a code review of your code and provide comments on it. In parallel, we will schedule a meeting to discuss the code review and have a brief chat about the challenges faced.
+
 
 <br/>  
 
